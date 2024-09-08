@@ -1,3 +1,3 @@
 # this-demo
 This is my first git repository<br>
-Author-Mariya Naz
+Author-Mariya N
